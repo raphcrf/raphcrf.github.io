@@ -1,5 +1,5 @@
 import React,{Component} from 'react'
-// import result from './server'
+
 
 
 class Main extends Component{
